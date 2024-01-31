@@ -3,7 +3,7 @@
 - Simular o gameplay no terminal
 - Não usar pygame
 - Equipe definida em sala de aula
-- 
+  
 ## Equipe
 * Juliana Ballin Lima - 2315310011
 * Aline Daffiny Ferreira Gomes - 231531026
